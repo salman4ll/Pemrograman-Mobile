@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">p04_intent</string>
+    <string name="hallo">Selamat kamu berhasil berpindah halaman ke Hallo Dicoding</string>
+</resources>
