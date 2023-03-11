@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login_shared_preferences</string>
+    <string name="button_register"><u>Register</u></string>
+</resources>
