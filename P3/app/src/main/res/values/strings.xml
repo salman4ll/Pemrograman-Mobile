@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">prakt03_form</string>
+    <string-array name="pilihanprodi">
+        <item>AKN</item>
+        <item>EKW</item>
+        <item>KMN</item>
+        <item>TPL</item>
+        <item>TRK</item>
+    </string-array>
+    <string-array name="pilihanagama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
